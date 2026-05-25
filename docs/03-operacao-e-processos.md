@@ -95,3 +95,4 @@ Essa esteira sera usada como base para produtos, agentes, templates, automacoes 
 - [Agente Comercial Empresarial e Societario](agentes/agente-comercial-empresarial-societario.md)
 - [Agente de Diagnostico Empresarial e Societario](agentes/agente-diagnostico-empresarial-societario.md)
 - [Agente de Propostas Empresarial e Societario](agentes/agente-propostas-empresarial-societario.md)
+- [Agente de Revisao de Qualidade](agentes/agente-revisao-qualidade.md)

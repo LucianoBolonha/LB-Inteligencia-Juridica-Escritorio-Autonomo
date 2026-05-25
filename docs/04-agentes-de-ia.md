@@ -29,3 +29,10 @@ Definir agentes especializados que apoiem a operacao sem substituir a decisao ju
 - [Agente de Triagem Comercial](agentes/agente-triagem-comercial.md)
 - [Agente de Diagnóstico Estratégico](agentes/agente-diagnostico-estrategico.md)
 - [Agente Documental](agentes/agente-documental.md)
+
+## Agentes Especializados Empresariais e Societarios
+
+- [Agente Comercial Empresarial e Societario](agentes/agente-comercial-empresarial-societario.md)
+- [Agente de Diagnostico Empresarial e Societario](agentes/agente-diagnostico-empresarial-societario.md)
+- [Agente de Propostas Empresarial e Societario](agentes/agente-propostas-empresarial-societario.md)
+- [Agente de Revisao de Qualidade](agentes/agente-revisao-qualidade.md)
