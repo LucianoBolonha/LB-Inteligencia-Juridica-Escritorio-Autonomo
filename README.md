@@ -21,6 +21,20 @@ Construir uma plataforma operacional e comercial para um escritorio autonomo, co
 - `docs/06-stack-e-automacoes.md` - ferramentas, integracoes e automacoes
 - `docs/07-governanca-e-qualidade.md` - controle humano, riscos e padrao de qualidade
 - `docs/decisoes.md` - decisoes tomadas durante o desenho
+- `app-teste-operacional/` - versao teste navegavel da esteira empresarial e societaria
+
+## Versao teste operacional
+
+A versao teste fica em `app-teste-operacional/index.html`.
+
+Ela pode ser aberta direto no navegador ou servida localmente:
+
+```powershell
+Set-Location .\app-teste-operacional
+python -m http.server 5178 --bind 127.0.0.1
+```
+
+Depois, acesse `http://127.0.0.1:5178/`.
 
 ## Tom de voz
 
