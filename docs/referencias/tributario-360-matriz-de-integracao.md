@@ -193,10 +193,10 @@ Entregaveis proprios:
 
 ### Prioridade 2
 
-- Simulador LB de comparacao de regimes.
-- Checklist de qualidade tributaria.
-- Playbook de adequacao a reforma tributaria.
-- Base de conhecimento tributaria com fontes, vigencia e nivel de confianca.
+- [Simulador LB de comparacao de regimes](../metricas/simulador-comparacao-regimes-tributarios.md).
+- [Checklist de qualidade tributaria](../governanca/checklist-qualidade-tributaria.md).
+- [Playbook de adequacao a reforma tributaria](../operacao/playbook-adequacao-reforma-tributaria.md).
+- [Base de conhecimento tributaria com fontes, vigencia e nivel de confianca](base-conhecimento-tributaria.md).
 
 ### Prioridade 3
 

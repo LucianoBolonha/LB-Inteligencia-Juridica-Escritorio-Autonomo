@@ -73,3 +73,7 @@ Essa esteira sera usada como base para produtos, agentes, templates, automacoes 
 - [Checklist documental tributario avancado](templates/operacao/checklist-documental-tributario-avancado.md)
 - [Matriz de diagnostico tributario empresarial](operacao/matriz-diagnostico-tributario-empresarial.md)
 - [Proposta Planejamento Tributario e Empresarial 360](templates/comercial/proposta-planejamento-tributario-empresarial-360.md)
+- [Simulador de comparacao de regimes tributarios](metricas/simulador-comparacao-regimes-tributarios.md)
+- [Checklist de qualidade tributaria](governanca/checklist-qualidade-tributaria.md)
+- [Playbook de adequacao a reforma tributaria](operacao/playbook-adequacao-reforma-tributaria.md)
+- [Base de conhecimento tributaria](referencias/base-conhecimento-tributaria.md)
