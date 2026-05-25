@@ -75,6 +75,7 @@ O escritorio sera estruturado como uma plataforma completa, mas o primeiro desen
 - [Proposta Planejamento Empresarial e Societario 360](templates/comercial/proposta-planejamento-empresarial-societario-360.md)
 - [Simulacao preenchida de cliente pessoa juridica empresarial e societario](simulacoes/cliente-pessoa-juridica-empresarial-societario.md)
 - [Roteiro comercial consultivo Empresarial e Societario 360](templates/comercial/roteiro-comercial-empresarial-societario-360.md)
+- [Mensagem de entrega do diagnostico Empresarial e Societario 360](templates/comercial/mensagem-entrega-diagnostico-empresarial-societario-360.md)
 - [Agente Comercial Empresarial e Societario](agentes/agente-comercial-empresarial-societario.md)
 - [Agente de Diagnostico Empresarial e Societario](agentes/agente-diagnostico-empresarial-societario.md)
 - [Agente de Propostas Empresarial e Societario](agentes/agente-propostas-empresarial-societario.md)
