@@ -51,6 +51,7 @@ Definir ferramentas e automacoes para sustentar uma operacao digital, enxuta e e
 - [Formulario de pre-diagnostico empresarial e societario](templates/diagnostico/pre-diagnostico-empresarial-societario.md)
 - [Checklist documental empresarial e societario](templates/operacao/checklist-documental-empresarial-societario.md)
 - [Matriz de risco e governanca societaria](operacao/matriz-risco-governanca-societaria.md)
+- [Relatorio executivo Empresarial e Societario 360](templates/diagnostico/relatorio-executivo-empresarial-societario-360.md)
 - [Proposta Planejamento Empresarial e Societario 360](templates/comercial/proposta-planejamento-empresarial-societario-360.md)
 - [Simulacao preenchida de cliente pessoa juridica empresarial e societario](simulacoes/cliente-pessoa-juridica-empresarial-societario.md)
 - [Roteiro comercial consultivo Empresarial e Societario 360](templates/comercial/roteiro-comercial-empresarial-societario-360.md)
