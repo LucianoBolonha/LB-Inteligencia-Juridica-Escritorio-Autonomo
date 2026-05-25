@@ -52,6 +52,7 @@ Essa esteira sera usada como base para produtos, agentes, templates, automacoes 
 - [Fluxo piloto pessoa jurídica](operacao/fluxo-piloto-pessoa-juridica.md)
 - [Checklist de onboarding](templates/operacao/checklist-onboarding.md)
 - [Simulação preenchida de cliente pessoa física patrimonial](simulacoes/cliente-pessoa-fisica-patrimonial.md)
+- [Simulacao preenchida de cliente pessoa juridica empresarial e societario](simulacoes/cliente-pessoa-juridica-empresarial-societario.md)
 
 ## Trilha Patrimonial 360
 
@@ -87,3 +88,4 @@ Essa esteira sera usada como base para produtos, agentes, templates, automacoes 
 - [Checklist documental empresarial e societario](templates/operacao/checklist-documental-empresarial-societario.md)
 - [Matriz de risco e governanca societaria](operacao/matriz-risco-governanca-societaria.md)
 - [Proposta Planejamento Empresarial e Societario 360](templates/comercial/proposta-planejamento-empresarial-societario-360.md)
+- [Simulacao preenchida de cliente pessoa juridica empresarial e societario](simulacoes/cliente-pessoa-juridica-empresarial-societario.md)

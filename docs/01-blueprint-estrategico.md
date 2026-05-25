@@ -46,6 +46,7 @@ O escritorio sera estruturado como uma plataforma completa, mas o primeiro desen
 - [Fluxo piloto pessoa jurídica](operacao/fluxo-piloto-pessoa-juridica.md)
 - [Dashboard MVP](metricas/dashboard-mvp.md)
 - [Simulação preenchida de cliente pessoa física patrimonial](simulacoes/cliente-pessoa-fisica-patrimonial.md)
+- [Simulacao preenchida de cliente pessoa juridica empresarial e societario](simulacoes/cliente-pessoa-juridica-empresarial-societario.md)
 - [Matriz de incorporação Holding 360](referencias/holding-360-matriz-de-incorporacao.md)
 - [Matriz de viabilidade de holding](operacao/matriz-viabilidade-holding.md)
 - [Cronograma de implementacao patrimonial 360](operacao/cronograma-implementacao-patrimonial-360.md)
@@ -70,3 +71,4 @@ O escritorio sera estruturado como uma plataforma completa, mas o primeiro desen
 - [Checklist documental empresarial e societario](templates/operacao/checklist-documental-empresarial-societario.md)
 - [Matriz de risco e governanca societaria](operacao/matriz-risco-governanca-societaria.md)
 - [Proposta Planejamento Empresarial e Societario 360](templates/comercial/proposta-planejamento-empresarial-societario-360.md)
+- [Simulacao preenchida de cliente pessoa juridica empresarial e societario](simulacoes/cliente-pessoa-juridica-empresarial-societario.md)
