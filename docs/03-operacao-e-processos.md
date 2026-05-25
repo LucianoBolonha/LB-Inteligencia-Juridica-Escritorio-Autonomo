@@ -77,3 +77,6 @@ Essa esteira sera usada como base para produtos, agentes, templates, automacoes 
 - [Checklist de qualidade tributaria](governanca/checklist-qualidade-tributaria.md)
 - [Playbook de adequacao a reforma tributaria](operacao/playbook-adequacao-reforma-tributaria.md)
 - [Base de conhecimento tributaria](referencias/base-conhecimento-tributaria.md)
+- [Biblioteca de teses tributarias LB](referencias/biblioteca-teses-tributarias-lb.md)
+- [Esteira de recuperacao de creditos tributarios](operacao/esteira-recuperacao-creditos-tributarios.md)
+- [Playbook de compliance tributario recorrente](operacao/playbook-compliance-tributario-recorrente.md)

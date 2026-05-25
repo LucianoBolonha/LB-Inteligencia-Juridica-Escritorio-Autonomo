@@ -200,10 +200,21 @@ Entregaveis proprios:
 
 ### Prioridade 3
 
-- Biblioteca de teses tributarias da LB.
-- Esteira de recuperacao de creditos.
-- Playbook de compliance tributario recorrente.
+- [Biblioteca de teses tributarias da LB](biblioteca-teses-tributarias-lb.md).
+- [Esteira de recuperacao de creditos](../operacao/esteira-recuperacao-creditos-tributarios.md).
+- [Playbook de compliance tributario recorrente](../operacao/playbook-compliance-tributario-recorrente.md).
 - Linha de produto para municipios e setor publico, somente apos validacao comercial especifica.
+
+### Fase Futura - Municipios e Setor Publico
+
+O material sobre direito tributario publico indica oportunidade relevante em prefeituras e orgaos publicos, mas essa frente deve ficar fora do MVP atual. Antes de virar produto, a LB deve validar:
+
+- aderencia comercial;
+- capacidade tecnica;
+- modelo de contratacao publica;
+- riscos de compliance;
+- necessidade de parceiros;
+- escopo minimo vendavel.
 
 ## Riscos e Controles
 
