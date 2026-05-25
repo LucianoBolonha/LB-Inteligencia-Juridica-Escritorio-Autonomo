@@ -30,6 +30,7 @@ Transformar as areas de atuacao em produtos juridicos claros, vendaveis e escala
 ## Referencias de Produto
 
 - [Matriz de incorporação Holding 360](referencias/holding-360-matriz-de-incorporacao.md)
+- [Matriz de integração Tributario 360](referencias/tributario-360-matriz-de-integracao.md)
 
 ## Produto Prioritario - Planejamento Patrimonial e Sucessorio 360
 
@@ -51,3 +52,7 @@ Transformar as areas de atuacao em produtos juridicos claros, vendaveis e escala
 - [Biblioteca de minutas societarias originais](templates/minutas/biblioteca-minutas-societarias-originais.md)
 - [Playbook de acompanhamento patrimonial recorrente](operacao/playbook-acompanhamento-patrimonial-recorrente.md)
 - [Base de conhecimento ITCMD e ITBI](referencias/base-conhecimento-itcmd-itbi.md)
+
+## Produto em Estruturacao - Planejamento Tributario e Empresarial 360
+
+- [Matriz de integração Tributario 360](referencias/tributario-360-matriz-de-integracao.md)
