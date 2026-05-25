@@ -63,3 +63,4 @@ Garantir que a autonomia operacional nao reduza controle tecnico, responsabilida
 - [Roteiro comercial consultivo Empresarial e Societario 360](templates/comercial/roteiro-comercial-empresarial-societario-360.md)
 - [Agente Comercial Empresarial e Societario](agentes/agente-comercial-empresarial-societario.md)
 - [Agente de Diagnostico Empresarial e Societario](agentes/agente-diagnostico-empresarial-societario.md)
+- [Agente de Propostas Empresarial e Societario](agentes/agente-propostas-empresarial-societario.md)
