@@ -216,9 +216,9 @@ Cuidados:
 
 ### Prioridade 3
 
-- Biblioteca de minutas societarias originais.
-- Playbook de acompanhamento recorrente.
-- Base de conhecimento sobre ITCMD por UF e ITBI por municipio.
+- [Biblioteca de minutas societarias originais](../templates/minutas/biblioteca-minutas-societarias-originais.md).
+- [Playbook de acompanhamento patrimonial recorrente](../operacao/playbook-acompanhamento-patrimonial-recorrente.md).
+- [Base de conhecimento ITCMD e ITBI](base-conhecimento-itcmd-itbi.md).
 
 ## Proximos Passos Recomendados
 

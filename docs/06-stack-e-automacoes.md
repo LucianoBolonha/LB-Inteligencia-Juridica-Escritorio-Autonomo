@@ -25,3 +25,8 @@ Definir ferramentas e automacoes para sustentar uma operacao digital, enxuta e e
 - Entrega final dispara follow-up
 - Cliente recorrente recebe revisao periodica
 
+## Bases Operacionais Patrimoniais 360
+
+- [Playbook de acompanhamento patrimonial recorrente](operacao/playbook-acompanhamento-patrimonial-recorrente.md)
+- [Base de conhecimento ITCMD e ITBI](referencias/base-conhecimento-itcmd-itbi.md)
+- [Biblioteca de minutas societarias originais](templates/minutas/biblioteca-minutas-societarias-originais.md)

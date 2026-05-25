@@ -46,3 +46,8 @@ Transformar as areas de atuacao em produtos juridicos claros, vendaveis e escala
 - [Checklist de qualidade para holding e sucessao](governanca/checklist-qualidade-holding-sucessao.md)
 - [Simulador financeiro patrimonial 360](metricas/simulador-financeiro-patrimonial-360.md)
 
+### Artefatos de Recorrencia e Escala
+
+- [Biblioteca de minutas societarias originais](templates/minutas/biblioteca-minutas-societarias-originais.md)
+- [Playbook de acompanhamento patrimonial recorrente](operacao/playbook-acompanhamento-patrimonial-recorrente.md)
+- [Base de conhecimento ITCMD e ITBI](referencias/base-conhecimento-itcmd-itbi.md)

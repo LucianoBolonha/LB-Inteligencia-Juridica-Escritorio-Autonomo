@@ -47,3 +47,9 @@ Padronizar documentos para aumentar velocidade, consistencia e qualidade.
 - [Cronograma de implementacao patrimonial 360](operacao/cronograma-implementacao-patrimonial-360.md)
 - [Checklist de qualidade para holding e sucessao](governanca/checklist-qualidade-holding-sucessao.md)
 - [Simulador financeiro patrimonial 360](metricas/simulador-financeiro-patrimonial-360.md)
+- [Playbook de acompanhamento patrimonial recorrente](operacao/playbook-acompanhamento-patrimonial-recorrente.md)
+
+## Biblioteca Patrimonial 360
+
+- [Biblioteca de minutas societarias originais](templates/minutas/biblioteca-minutas-societarias-originais.md)
+- [Base de conhecimento ITCMD e ITBI](referencias/base-conhecimento-itcmd-itbi.md)
