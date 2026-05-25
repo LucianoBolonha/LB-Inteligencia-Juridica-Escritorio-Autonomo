@@ -80,3 +80,10 @@ Essa esteira sera usada como base para produtos, agentes, templates, automacoes 
 - [Biblioteca de teses tributarias LB](referencias/biblioteca-teses-tributarias-lb.md)
 - [Esteira de recuperacao de creditos tributarios](operacao/esteira-recuperacao-creditos-tributarios.md)
 - [Playbook de compliance tributario recorrente](operacao/playbook-compliance-tributario-recorrente.md)
+
+## Trilha Empresarial e Societaria 360
+
+- [Formulario de pre-diagnostico empresarial e societario](templates/diagnostico/pre-diagnostico-empresarial-societario.md)
+- [Checklist documental empresarial e societario](templates/operacao/checklist-documental-empresarial-societario.md)
+- [Matriz de risco e governanca societaria](operacao/matriz-risco-governanca-societaria.md)
+- [Proposta Planejamento Empresarial e Societario 360](templates/comercial/proposta-planejamento-empresarial-societario-360.md)
