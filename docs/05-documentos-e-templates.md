@@ -35,6 +35,7 @@ Padronizar documentos para aumentar velocidade, consistencia e qualidade.
 ## Referencias para Adaptacao
 
 - [Matriz de incorporação Holding 360](referencias/holding-360-matriz-de-incorporacao.md)
+- [Matriz de integração Tributario 360](referencias/tributario-360-matriz-de-integracao.md)
 
 ## Templates Patrimoniais 360
 
@@ -53,3 +54,10 @@ Padronizar documentos para aumentar velocidade, consistencia e qualidade.
 
 - [Biblioteca de minutas societarias originais](templates/minutas/biblioteca-minutas-societarias-originais.md)
 - [Base de conhecimento ITCMD e ITBI](referencias/base-conhecimento-itcmd-itbi.md)
+
+## Templates Tributarios e Empresariais 360
+
+- [Formulario de pre-diagnostico tributario empresarial](templates/diagnostico/pre-diagnostico-tributario-empresarial.md)
+- [Checklist documental tributario avancado](templates/operacao/checklist-documental-tributario-avancado.md)
+- [Matriz de diagnostico tributario empresarial](operacao/matriz-diagnostico-tributario-empresarial.md)
+- [Proposta Planejamento Tributario e Empresarial 360](templates/comercial/proposta-planejamento-tributario-empresarial-360.md)

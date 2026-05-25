@@ -34,3 +34,7 @@ Definir ferramentas e automacoes para sustentar uma operacao digital, enxuta e e
 ## Bases Operacionais Tributarias 360
 
 - [Matriz de integração Tributario 360](referencias/tributario-360-matriz-de-integracao.md)
+- [Formulario de pre-diagnostico tributario empresarial](templates/diagnostico/pre-diagnostico-tributario-empresarial.md)
+- [Checklist documental tributario avancado](templates/operacao/checklist-documental-tributario-avancado.md)
+- [Matriz de diagnostico tributario empresarial](operacao/matriz-diagnostico-tributario-empresarial.md)
+- [Proposta Planejamento Tributario e Empresarial 360](templates/comercial/proposta-planejamento-tributario-empresarial-360.md)

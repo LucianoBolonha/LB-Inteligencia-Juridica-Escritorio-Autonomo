@@ -56,3 +56,10 @@ Transformar as areas de atuacao em produtos juridicos claros, vendaveis e escala
 ## Produto em Estruturacao - Planejamento Tributario e Empresarial 360
 
 - [Matriz de integração Tributario 360](referencias/tributario-360-matriz-de-integracao.md)
+
+### Artefatos de Conversao e Diagnostico
+
+- [Formulario de pre-diagnostico tributario empresarial](templates/diagnostico/pre-diagnostico-tributario-empresarial.md)
+- [Checklist documental tributario avancado](templates/operacao/checklist-documental-tributario-avancado.md)
+- [Matriz de diagnostico tributario empresarial](operacao/matriz-diagnostico-tributario-empresarial.md)
+- [Proposta Planejamento Tributario e Empresarial 360](templates/comercial/proposta-planejamento-tributario-empresarial-360.md)

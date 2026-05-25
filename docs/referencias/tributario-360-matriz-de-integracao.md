@@ -186,10 +186,10 @@ Entregaveis proprios:
 
 ### Prioridade 1
 
-- Formulario LB de pre-diagnostico tributario empresarial.
-- Checklist documental tributario avancado.
-- Matriz de diagnostico tributario empresarial.
-- Proposta LB de Planejamento Tributario Empresarial 360.
+- [Formulario LB de pre-diagnostico tributario empresarial](../templates/diagnostico/pre-diagnostico-tributario-empresarial.md).
+- [Checklist documental tributario avancado](../templates/operacao/checklist-documental-tributario-avancado.md).
+- [Matriz de diagnostico tributario empresarial](../operacao/matriz-diagnostico-tributario-empresarial.md).
+- [Proposta LB de Planejamento Tributario Empresarial 360](../templates/comercial/proposta-planejamento-tributario-empresarial-360.md).
 
 ### Prioridade 2
 

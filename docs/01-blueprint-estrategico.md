@@ -55,3 +55,7 @@ O escritorio sera estruturado como uma plataforma completa, mas o primeiro desen
 - [Playbook de acompanhamento patrimonial recorrente](operacao/playbook-acompanhamento-patrimonial-recorrente.md)
 - [Base de conhecimento ITCMD e ITBI](referencias/base-conhecimento-itcmd-itbi.md)
 - [Matriz de integração Tributario 360](referencias/tributario-360-matriz-de-integracao.md)
+- [Formulario de pre-diagnostico tributario empresarial](templates/diagnostico/pre-diagnostico-tributario-empresarial.md)
+- [Checklist documental tributario avancado](templates/operacao/checklist-documental-tributario-avancado.md)
+- [Matriz de diagnostico tributario empresarial](operacao/matriz-diagnostico-tributario-empresarial.md)
+- [Proposta Planejamento Tributario e Empresarial 360](templates/comercial/proposta-planejamento-tributario-empresarial-360.md)
