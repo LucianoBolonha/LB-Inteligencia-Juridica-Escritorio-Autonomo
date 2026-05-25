@@ -51,3 +51,4 @@ Essa esteira sera usada como base para produtos, agentes, templates, automacoes 
 - [Fluxo piloto pessoa física](operacao/fluxo-piloto-pessoa-fisica.md)
 - [Fluxo piloto pessoa jurídica](operacao/fluxo-piloto-pessoa-juridica.md)
 - [Checklist de onboarding](templates/operacao/checklist-onboarding.md)
+- [Simulação preenchida de cliente pessoa física patrimonial](simulacoes/cliente-pessoa-fisica-patrimonial.md)

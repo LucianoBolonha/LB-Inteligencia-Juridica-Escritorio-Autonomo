@@ -45,3 +45,4 @@ O escritorio sera estruturado como uma plataforma completa, mas o primeiro desen
 - [Fluxo piloto pessoa física](operacao/fluxo-piloto-pessoa-fisica.md)
 - [Fluxo piloto pessoa jurídica](operacao/fluxo-piloto-pessoa-juridica.md)
 - [Dashboard MVP](metricas/dashboard-mvp.md)
+- [Simulação preenchida de cliente pessoa física patrimonial](simulacoes/cliente-pessoa-fisica-patrimonial.md)
