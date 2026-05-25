@@ -38,3 +38,10 @@ O escritorio sera estruturado como uma plataforma completa, mas o primeiro desen
 - Definir stack minima de ferramentas.
 - Criar templates prioritarios para a etapa comercial.
 - Criar prompts operacionais dos primeiros agentes de IA.
+
+## Artefatos MVP
+
+- [Esteira ponta a ponta](operacao/esteira-ponta-a-ponta.md)
+- [Fluxo piloto pessoa física](operacao/fluxo-piloto-pessoa-fisica.md)
+- [Fluxo piloto pessoa jurídica](operacao/fluxo-piloto-pessoa-juridica.md)
+- [Dashboard MVP](metricas/dashboard-mvp.md)

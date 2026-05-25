@@ -44,3 +44,10 @@ Essa esteira sera usada como base para produtos, agentes, templates, automacoes 
 - Revisao juridica humana
 - Registro de decisoes
 - Evidencia de aceite do cliente
+
+## Detalhamento Operacional
+
+- [Esteira ponta a ponta](operacao/esteira-ponta-a-ponta.md)
+- [Fluxo piloto pessoa física](operacao/fluxo-piloto-pessoa-fisica.md)
+- [Fluxo piloto pessoa jurídica](operacao/fluxo-piloto-pessoa-juridica.md)
+- [Checklist de onboarding](templates/operacao/checklist-onboarding.md)

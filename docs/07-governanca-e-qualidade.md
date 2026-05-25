@@ -22,3 +22,7 @@ Garantir que a autonomia operacional nao reduza controle tecnico, responsabilida
 - Documento sem revisao tecnica
 - Desalinhamento entre expectativa do cliente e escopo contratado
 
+## Controles MVP
+
+- [Checklist de qualidade](governanca/checklist-qualidade.md)
+- [Dashboard MVP](metricas/dashboard-mvp.md)
