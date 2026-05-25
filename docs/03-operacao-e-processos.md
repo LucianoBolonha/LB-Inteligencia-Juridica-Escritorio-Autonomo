@@ -59,3 +59,6 @@ Essa esteira sera usada como base para produtos, agentes, templates, automacoes 
 - [Checklist documental patrimonial avancado](templates/operacao/checklist-documental-patrimonial-avancado.md)
 - [Matriz de viabilidade de holding](operacao/matriz-viabilidade-holding.md)
 - [Proposta Planejamento Patrimonial e Sucessorio 360](templates/comercial/proposta-planejamento-patrimonial-360.md)
+- [Cronograma de implementacao patrimonial 360](operacao/cronograma-implementacao-patrimonial-360.md)
+- [Checklist de qualidade para holding e sucessao](governanca/checklist-qualidade-holding-sucessao.md)
+- [Simulador financeiro patrimonial 360](metricas/simulador-financeiro-patrimonial-360.md)

@@ -26,3 +26,9 @@ Garantir que a autonomia operacional nao reduza controle tecnico, responsabilida
 
 - [Checklist de qualidade](governanca/checklist-qualidade.md)
 - [Dashboard MVP](metricas/dashboard-mvp.md)
+
+## Controles Patrimoniais 360
+
+- [Checklist de qualidade para holding e sucessao](governanca/checklist-qualidade-holding-sucessao.md)
+- [Cronograma de implementacao patrimonial 360](operacao/cronograma-implementacao-patrimonial-360.md)
+- [Simulador financeiro patrimonial 360](metricas/simulador-financeiro-patrimonial-360.md)

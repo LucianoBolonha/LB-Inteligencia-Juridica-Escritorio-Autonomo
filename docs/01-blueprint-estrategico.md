@@ -48,3 +48,6 @@ O escritorio sera estruturado como uma plataforma completa, mas o primeiro desen
 - [Simulação preenchida de cliente pessoa física patrimonial](simulacoes/cliente-pessoa-fisica-patrimonial.md)
 - [Matriz de incorporação Holding 360](referencias/holding-360-matriz-de-incorporacao.md)
 - [Matriz de viabilidade de holding](operacao/matriz-viabilidade-holding.md)
+- [Cronograma de implementacao patrimonial 360](operacao/cronograma-implementacao-patrimonial-360.md)
+- [Checklist de qualidade para holding e sucessao](governanca/checklist-qualidade-holding-sucessao.md)
+- [Simulador financeiro patrimonial 360](metricas/simulador-financeiro-patrimonial-360.md)

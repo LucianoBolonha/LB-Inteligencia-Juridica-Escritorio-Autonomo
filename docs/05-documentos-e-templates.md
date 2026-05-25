@@ -41,3 +41,9 @@ Padronizar documentos para aumentar velocidade, consistencia e qualidade.
 - [Formulario de pre-diagnostico patrimonial](templates/diagnostico/pre-diagnostico-patrimonial.md)
 - [Checklist documental patrimonial avancado](templates/operacao/checklist-documental-patrimonial-avancado.md)
 - [Proposta Planejamento Patrimonial e Sucessorio 360](templates/comercial/proposta-planejamento-patrimonial-360.md)
+
+## Artefatos Operacionais Patrimoniais 360
+
+- [Cronograma de implementacao patrimonial 360](operacao/cronograma-implementacao-patrimonial-360.md)
+- [Checklist de qualidade para holding e sucessao](governanca/checklist-qualidade-holding-sucessao.md)
+- [Simulador financeiro patrimonial 360](metricas/simulador-financeiro-patrimonial-360.md)

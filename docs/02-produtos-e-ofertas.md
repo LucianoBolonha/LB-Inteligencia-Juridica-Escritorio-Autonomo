@@ -33,8 +33,16 @@ Transformar as areas de atuacao em produtos juridicos claros, vendaveis e escala
 
 ## Produto Prioritario - Planejamento Patrimonial e Sucessorio 360
 
+### Artefatos de Conversao e Diagnostico
+
 - [Formulario de pre-diagnostico patrimonial](templates/diagnostico/pre-diagnostico-patrimonial.md)
 - [Checklist documental patrimonial avancado](templates/operacao/checklist-documental-patrimonial-avancado.md)
 - [Matriz de viabilidade de holding](operacao/matriz-viabilidade-holding.md)
 - [Proposta Planejamento Patrimonial e Sucessorio 360](templates/comercial/proposta-planejamento-patrimonial-360.md)
+
+### Artefatos de Implementacao e Controle
+
+- [Cronograma de implementacao patrimonial 360](operacao/cronograma-implementacao-patrimonial-360.md)
+- [Checklist de qualidade para holding e sucessao](governanca/checklist-qualidade-holding-sucessao.md)
+- [Simulador financeiro patrimonial 360](metricas/simulador-financeiro-patrimonial-360.md)
 
