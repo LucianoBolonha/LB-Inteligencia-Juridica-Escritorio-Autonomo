@@ -85,3 +85,4 @@ Transformar as areas de atuacao em produtos juridicos claros, vendaveis e escala
 - [Checklist documental empresarial e societario](templates/operacao/checklist-documental-empresarial-societario.md)
 - [Matriz de risco e governanca societaria](operacao/matriz-risco-governanca-societaria.md)
 - [Proposta Planejamento Empresarial e Societario 360](templates/comercial/proposta-planejamento-empresarial-societario-360.md)
+- [Roteiro comercial consultivo Empresarial e Societario 360](templates/comercial/roteiro-comercial-empresarial-societario-360.md)
