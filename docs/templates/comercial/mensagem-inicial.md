@@ -2,7 +2,7 @@
 
 ## Objetivo
 
-Responder rapidamente ao lead com tom sofisticado, direto e orientado a negocio, abrindo caminho para a triagem.
+Responder rapidamente ao lead com tom sofisticado, direto e orientado a negócio, abrindo caminho para a triagem.
 
 ## Template
 

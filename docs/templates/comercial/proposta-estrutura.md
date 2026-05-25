@@ -10,7 +10,7 @@ Descrever a dor detectada em linguagem clara:
 
 ## 2. Solução Estratégica
 
-Explicar como a LB Inteligência Jurídica resolverá o problema:
+Explicar como a LB Inteligência Jurídica estruturará a solução para mitigar o problema:
 
 - Produto ou projeto recomendado.
 - Etapas de execução.
