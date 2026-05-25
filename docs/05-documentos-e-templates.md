@@ -35,3 +35,9 @@ Padronizar documentos para aumentar velocidade, consistencia e qualidade.
 ## Referencias para Adaptacao
 
 - [Matriz de incorporação Holding 360](referencias/holding-360-matriz-de-incorporacao.md)
+
+## Templates Patrimoniais 360
+
+- [Formulario de pre-diagnostico patrimonial](templates/diagnostico/pre-diagnostico-patrimonial.md)
+- [Checklist documental patrimonial avancado](templates/operacao/checklist-documental-patrimonial-avancado.md)
+- [Proposta Planejamento Patrimonial e Sucessorio 360](templates/comercial/proposta-planejamento-patrimonial-360.md)

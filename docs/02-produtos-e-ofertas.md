@@ -31,3 +31,10 @@ Transformar as areas de atuacao em produtos juridicos claros, vendaveis e escala
 
 - [Matriz de incorporação Holding 360](referencias/holding-360-matriz-de-incorporacao.md)
 
+## Produto Prioritario - Planejamento Patrimonial e Sucessorio 360
+
+- [Formulario de pre-diagnostico patrimonial](templates/diagnostico/pre-diagnostico-patrimonial.md)
+- [Checklist documental patrimonial avancado](templates/operacao/checklist-documental-patrimonial-avancado.md)
+- [Matriz de viabilidade de holding](operacao/matriz-viabilidade-holding.md)
+- [Proposta Planejamento Patrimonial e Sucessorio 360](templates/comercial/proposta-planejamento-patrimonial-360.md)
+

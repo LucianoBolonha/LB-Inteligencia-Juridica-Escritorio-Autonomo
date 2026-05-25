@@ -52,3 +52,10 @@ Essa esteira sera usada como base para produtos, agentes, templates, automacoes 
 - [Fluxo piloto pessoa jurídica](operacao/fluxo-piloto-pessoa-juridica.md)
 - [Checklist de onboarding](templates/operacao/checklist-onboarding.md)
 - [Simulação preenchida de cliente pessoa física patrimonial](simulacoes/cliente-pessoa-fisica-patrimonial.md)
+
+## Trilha Patrimonial 360
+
+- [Formulario de pre-diagnostico patrimonial](templates/diagnostico/pre-diagnostico-patrimonial.md)
+- [Checklist documental patrimonial avancado](templates/operacao/checklist-documental-patrimonial-avancado.md)
+- [Matriz de viabilidade de holding](operacao/matriz-viabilidade-holding.md)
+- [Proposta Planejamento Patrimonial e Sucessorio 360](templates/comercial/proposta-planejamento-patrimonial-360.md)
