@@ -1,0 +1,119 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>LB Inteligencia Juridica - Esteira Operacional</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="shell">
+      <aside class="sidebar" aria-label="Navegacao principal">
+        <div class="brand">
+          <div class="brand-mark" aria-hidden="true">LB</div>
+          <div>
+            <strong>LB Inteligencia Juridica</strong>
+            <span>Escritorio autonomo</span>
+          </div>
+        </div>
+
+        <nav class="stage-list" id="stageList" aria-label="Etapas da esteira"></nav>
+
+        <div class="case-note">
+          <span class="note-label">Caso teste</span>
+          <strong>Alfa Prime Servicos Integrados Ltda.</strong>
+          <p>Empresa familiar B2B, dois socios 50/50, contrato antigo e governanca em estruturacao.</p>
+        </div>
+      </aside>
+
+      <main class="workspace">
+        <header class="topbar">
+          <div>
+            <p class="eyebrow">Versao teste operacional</p>
+            <h1>Esteira Empresarial e Societaria 360</h1>
+          </div>
+          <div class="top-actions">
+            <button class="icon-button" id="prevStage" type="button" title="Etapa anterior" aria-label="Etapa anterior">&lt;</button>
+            <button class="icon-button" id="nextStage" type="button" title="Proxima etapa" aria-label="Proxima etapa">&gt;</button>
+          </div>
+        </header>
+
+        <section class="case-strip" aria-label="Resumo do caso">
+          <div>
+            <span>Cliente</span>
+            <strong>Alfa Prime</strong>
+          </div>
+          <div>
+            <span>Produto</span>
+            <strong>Empresarial/Societario 360</strong>
+          </div>
+          <div>
+            <span>Score</span>
+            <strong>4 / 18</strong>
+          </div>
+          <div>
+            <span>Status</span>
+            <strong>Diagnostico aprovado com ajustes</strong>
+          </div>
+        </section>
+
+        <section class="stage-panel" aria-live="polite">
+          <div class="stage-header">
+            <div>
+              <p class="eyebrow" id="stageKicker">Etapa</p>
+              <h2 id="stageTitle"></h2>
+            </div>
+            <span class="status-pill" id="stageStatus"></span>
+          </div>
+
+          <div class="stage-grid">
+            <article class="primary-pane">
+              <div class="pane-header">
+                <span class="pane-index" id="stageIndex"></span>
+                <h3 id="stageObjective"></h3>
+              </div>
+              <p id="stageDescription"></p>
+              <div class="action-block">
+                <h4>Acao operacional</h4>
+                <ul id="stageActions"></ul>
+              </div>
+            </article>
+
+            <aside class="support-pane">
+              <h3>Artefatos usados</h3>
+              <ul id="stageArtifacts"></ul>
+            </aside>
+          </div>
+        </section>
+
+        <section class="lower-grid">
+          <article class="docket-panel">
+            <div class="section-title">
+              <h3>Mapa de risco</h3>
+              <span>Prioridade inicial</span>
+            </div>
+            <div class="risk-list" id="riskList"></div>
+          </article>
+
+          <article class="docket-panel">
+            <div class="section-title">
+              <h3>Controle de qualidade</h3>
+              <span>Antes de enviar</span>
+            </div>
+            <div class="quality-list" id="qualityList"></div>
+          </article>
+
+          <article class="docket-panel wide">
+            <div class="section-title">
+              <h3>Plano de acao</h3>
+              <span>Implementacao sugerida</span>
+            </div>
+            <div class="timeline" id="timeline"></div>
+          </article>
+        </section>
+      </main>
+    </div>
+
+    <script src="app.js"></script>
+  </body>
+</html>

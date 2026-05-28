@@ -10,3 +10,4 @@ Registro das decisoes tomadas durante a estruturacao do escritorio autonomo.
 - O projeto tera pasta propria em `D:\Projeto Escritório Autonômo\LB Inteligencia Juridica - Escritorio Autonomo`.
 - A primeira arquitetura aprovada sera a operacao ponta a ponta em 10 etapas.
 - A jornada do cliente sera a espinha dorsal do escritorio autonomo.
+- O primeiro ciclo de implementacao sera um MVP operacional documental, sem software customizado e sem automacoes reais.

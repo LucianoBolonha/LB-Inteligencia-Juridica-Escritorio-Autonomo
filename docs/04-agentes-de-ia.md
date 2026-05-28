@@ -24,3 +24,15 @@ Definir agentes especializados que apoiem a operacao sem substituir a decisao ju
 - Toda recomendacao deve indicar premissas, riscos e documentos analisados
 - Comunicacao com cliente deve ser clara, moderna e sem juridiquês desnecessario
 
+## Agentes MVP
+
+- [Agente de Triagem Comercial](agentes/agente-triagem-comercial.md)
+- [Agente de Diagnóstico Estratégico](agentes/agente-diagnostico-estrategico.md)
+- [Agente Documental](agentes/agente-documental.md)
+
+## Agentes Especializados Empresariais e Societarios
+
+- [Agente Comercial Empresarial e Societario](agentes/agente-comercial-empresarial-societario.md)
+- [Agente de Diagnostico Empresarial e Societario](agentes/agente-diagnostico-empresarial-societario.md)
+- [Agente de Propostas Empresarial e Societario](agentes/agente-propostas-empresarial-societario.md)
+- [Agente de Revisao de Qualidade](agentes/agente-revisao-qualidade.md)
