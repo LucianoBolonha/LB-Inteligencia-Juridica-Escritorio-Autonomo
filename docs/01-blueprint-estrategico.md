@@ -4,7 +4,11 @@ Este documento e a planta-mae do escritorio autonomo.
 
 A especificacao detalhada aprovada para o primeiro ciclo esta em:
 
-`docs/superpowers/specs/2026-05-25-blueprint-escritorio-autonomo-design.md`
+- `docs/superpowers/specs/2026-05-25-blueprint-escritorio-autonomo-design.md`
+
+A especificação de arquitetura e engenharia do sistema está em:
+
+- [Master SDD - LB Inteligência Jurídica](sdd-master-plataforma.md)
 
 ## Decisao de Arquitetura
 

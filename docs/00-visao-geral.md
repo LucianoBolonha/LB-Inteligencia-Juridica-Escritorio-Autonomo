@@ -21,3 +21,17 @@ Entregar seguranca patrimonial, eficiencia tributaria legitima, governanca preve
 - Precisao tecnica sem juridiquês
 - Agilidade digital com revisao humana qualificada
 
+## Estrutura da Plataforma e Documentos
+
+- [00 - Visão Geral](00-visao-geral.md) (Este documento)
+- [01 - Blueprint Estratégico](01-blueprint-estrategico.md)
+- [02 - Produtos e Ofertas](02-produtos-e-ofertas.md)
+- [03 - Operação e Processos](03-operacao-e-processos.md)
+- [04 - Agentes de IA](04-agentes-de-ia.md)
+- [05 - Documentos e Templates](05-documentos-e-templates.md)
+- [06 - Stack e Automações](06-stack-e-automacoes.md)
+- [07 - Governança e Qualidade](07-governanca-e-qualidade.md)
+- [Registro de Decisões](decisoes.md)
+- [Master SDD - Arquitetura de Engenharia](sdd-master-plataforma.md)
+
+
