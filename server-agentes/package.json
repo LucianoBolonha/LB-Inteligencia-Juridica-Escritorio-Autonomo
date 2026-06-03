@@ -1,0 +1,17 @@
+{
+  "name": "server-agentes-lb",
+  "version": "1.0.0",
+  "description": "Servidor backend de agentes de IA para a LB Inteligência Jurídica",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test-client.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "openai": "^4.52.0"
+  }
+}
