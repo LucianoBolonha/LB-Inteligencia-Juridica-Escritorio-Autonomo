@@ -17,6 +17,7 @@ app.use(express.json());
 
 const PORT = process.env.PORT || 5180;
 const OPENAI_API_KEY = process.env.OPENAI_API_KEY;
+const OPENAI_MODEL = process.env.OPENAI_MODEL || "gpt-4o";
 
 // Inicializa a API da OpenAI se a chave estiver presente
 let openai = null;
@@ -77,6 +78,7 @@ app.get('/api/status', (req, res) => {
     status: "online",
     servico: "LB Inteligência Jurídica - API de Agentes",
     openai_configurada: !!openai,
+    modelo: OPENAI_MODEL,
     porta: PORT
   });
 });
@@ -96,7 +98,7 @@ app.post('/api/agente/comercial', checkApiKey, async (req, res) => {
 
     console.log('Chamando GPT-4o para o Agente Comercial...');
     const response = await openai.chat.completions.create({
-      model: "gpt-4o",
+      model: OPENAI_MODEL,
       messages: [
         { role: "system", content: systemPrompt },
         { role: "user", content: `Analise o lead abaixo:\n\n${typeof lead_dados === 'object' ? JSON.stringify(lead_dados, null, 2) : lead_dados}` }
@@ -130,7 +132,7 @@ app.post('/api/agente/diagnostico', checkApiKey, async (req, res) => {
 
     console.log('Chamando GPT-4o para o Agente de Diagnóstico...');
     const response = await openai.chat.completions.create({
-      model: "gpt-4o",
+      model: OPENAI_MODEL,
       messages: [
         { role: "system", content: systemPrompt },
         { role: "user", content: `Analise as respostas do questionário para produzir o diagnóstico:\n\n${typeof questionario === 'object' ? JSON.stringify(questionario, null, 2) : questionario}` }
@@ -164,7 +166,7 @@ app.post('/api/agente/proposta', checkApiKey, async (req, res) => {
 
     console.log('Chamando GPT-4o para o Agente de Propostas...');
     const response = await openai.chat.completions.create({
-      model: "gpt-4o",
+      model: OPENAI_MODEL,
       messages: [
         { role: "system", content: systemPrompt },
         { role: "user", content: `Gere a proposta comercial baseando-se no diagnóstico a seguir:\n\n${typeof diagnostico_aprovado === 'object' ? JSON.stringify(diagnostico_aprovado, null, 2) : diagnostico_aprovado}` }
@@ -198,7 +200,7 @@ app.post('/api/agente/revisao', checkApiKey, async (req, res) => {
 
     console.log('Chamando GPT-4o para o Agente de Revisão...');
     const response = await openai.chat.completions.create({
-      model: "gpt-4o",
+      model: OPENAI_MODEL,
       messages: [
         { role: "system", content: systemPrompt },
         { role: "user", content: `Audite e revise o documento abaixo:\n\n${documento_minuta}` }
